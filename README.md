@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **liuyunhaozz/liuyunhaozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center> ![liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyunhaozz) </div>
+![liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyunhaozz) 
   
-<div align=center> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyunhaozz&hide=tcl) </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyunhaozz&hide=tcl) 
