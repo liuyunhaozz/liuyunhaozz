@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuyunhaozz) 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyunhaozz&hide=tcl) 
+<!-- ### Hi there 👋 --> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyunhaozz&hide=tcl) 
